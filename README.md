@@ -1,6 +1,6 @@
-# android-sensors
+# Android sensors workshop app
 
-Simple Android application that displays and tracks some basic hardware sensors.
+Simple Android application that displays and tracks some basic hardware sensors. Made on VSITE Android workshop on 27.September 2019.
 
 ![Screenshot](screenshot.png)
 
